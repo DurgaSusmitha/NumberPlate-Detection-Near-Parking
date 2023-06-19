@@ -11,5 +11,5 @@ Number Plate of a vehicles is recognised by following some steps and by importin
 This will reduce the manual work to identify the vehicles in the parking areas.
 
 
-![Uploading image.png…]()
+![image](https://github.com/DurgaSusmitha/NumberPlate-Detection-Near-Parking/assets/127092893/c97cf4de-11e8-4f16-b104-b5fc3e98d18d)
 
